@@ -1,3 +1,3 @@
-This is my  git repsitery for c++ and python coding . 
+This is my  git repsitery for python coding . 
 <br>
 Author - Ameer Hamza
